@@ -1,0 +1,8 @@
+Origin: App1eFanBoy Repo
+Label: App1eFanBoy Beta
+Suite: stable
+Version: 1.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Betas
